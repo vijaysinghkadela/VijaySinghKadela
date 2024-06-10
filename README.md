@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VijaySinghKadela
+- 👋 Hi, I’m @vijaysinghkadela
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning MERN, and more tools 
 - 💞️ I’m looking to collaborate on Projects Form Learning together.
