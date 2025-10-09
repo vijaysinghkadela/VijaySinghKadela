@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaysinghkadela" alt="vijaysinghkadela" /></a> </p>
 
-- 🔭 I’m currently working on [WhatsApp Clone](https://github.com/vijaysinghkadela/WhatsApp-Clone)
+- 🔭 I’m currently working on [mnss-website]([[https://github.com/vijaysinghkadela/mnss-website])
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack & NextJS**
 
-- 👯 I’m looking to collaborate on [WhatsApp Clone](https://github.com/vijaysinghkadela/WhatsApp-Clone)
+- 👯 I’m looking to collaborate on none
 
 - 👨‍💻 All of my projects are available at [https://www.vijaysingh.site/](https://www.vijaysingh.site/)
 
-- 💬 Ask me about **React JS , Node JS , Express JS , MongoDB**
+- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB, NextJS**
 
 - 📫 How to reach me **Vinaypalsingh085@gmail.com**
 
