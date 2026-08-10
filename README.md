@@ -1,82 +1,64 @@
-# 🚀 Vijay Singh Kadela - Portfolio
+<h1 align="center">Hi 👋, I'm Vijay Singh Kadela</h1>
+<h3 align="center">Full Stack Web Developer | Automation Enthusiast | Next.js · React · TypeScript · SaaS & Trading Bots</h3>
 
-Hi 👋, I'm Vijay Singh Kadela  
-**Full Stack Web Developer | Automation Enthusiast | Next.js | React | TypeScript | SaaS & Trading Bots**  
-Bikaner, Rajasthan, India
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+modern+web+apps+with+Next.js+%26+React;Automating+workflows+with+n8n+%26+bots;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
----
-
-## 🌟 Featured Projects
-
-### [Portfolio Website](https://github.com/vijaysinghkadela/Portfolio)  
-**Next.js 14, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion**  
-A beautiful, modern, fully responsive showcase of my work, experience, and skills.  
-- Dark mode, SEO optimized, elegant animations  
-- Project gallery with filterable live demos  
-- [Live Demo](https://portfolio-nu-two-38.vercel.app)
+<p align="center">
+  <a href="https://vijaysingh.site"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vijaysinghkadela"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vinaypalsingh085@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/VijaySingh_085"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
 ---
 
-### [MNSS NGO Website](https://github.com/vijaysinghkadela/mnss-website)  
-**Next.js 15, React 19, Tailwind CSS 4, Framer Motion**  
-Responsive, accessible website for MNSS NGO presenting impact stats, timelines, reports; supports multilingual context.
+### 🌟 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **[Portfolio Website](https://vijaysingh.site)** | Next.js 14, TypeScript, Tailwind, shadcn/ui, Framer Motion | Dark mode, SEO-optimized, filterable project gallery |
+| **MNSS NGO Website** | Next.js 15, React 19, Tailwind 4, Framer Motion | Accessible, multilingual, impact stats & timelines |
+| **Digital Products Platform** | Full-stack marketplace | End-to-end digital goods commerce |
+| **Password Manager** | Encryption, Auth | Secure credential storage with clean UX |
+| **Chess.com Clone** | JavaScript | Real-time gameplay clone |
+
+**⚡ More builds:** Online Quiz App · Typing Speed App · Music Course WebApp · Realtime Device Tracker · Refokuss Clone · Brand Page Project — [see all repositories →](https://github.com/vijaysinghkadela?tab=repositories)
 
 ---
 
-### [Digital Products Platform](https://github.com/vijaysinghkadela/Digital_products)  
-A full-featured digital goods marketplace built with modern stack.
+### 🛠️ Tech Stack
+
+**Languages:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks:** ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Databases & Cloud:** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
-### [Password Manager](https://github.com/vijaysinghkadela/password-manager)  
-Strong, secure password manager with encryption, authentication, and user-friendly interface.
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vijaysinghkadela&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaysinghkadela&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaysinghkadela&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
 
 ---
 
-### [Cpp](https://github.com/vijaysinghkadela/Cpp)  
-Documentation and modern C++ code samples for programming fundamentals.
+### 🤝 Let's Connect
 
----
+📧 **Email:** vinaypalsingh085@gmail.com
+💼 **LinkedIn:** [vijaysinghkadela](https://www.linkedin.com/in/vijaysinghkadela)
+🌐 **Website:** [vijaysingh.site](https://vijaysingh.site)
 
-## ⚡ Web Apps, Bots, and Clones
+⭐️ If you like what I build, star a repo — it helps a lot!
 
-- [Online Quiz App](https://github.com/vijaysinghkadela/Online-Quiz-App)  
-- [Typing Speed App](https://github.com/vijaysinghkadela/Typing-Speed-App)  
-- [Music Course WebApp (Next.js)](https://github.com/vijaysinghkadela/Music-Course-WebApp-Next-JS)  
-- [Chess.com Clone](https://github.com/vijaysinghkadela/Chess.com-Clone-)  
-- [Realtime Device Tracker](https://github.com/vijaysinghkadela/Realtime-Device-Tracker)  
-- [Refokuss Clone](https://github.com/vijaysinghkadela/Refokuss-Clone)  
-- [Brand Page Project](https://github.com/vijaysinghkadela/Project-1---Brand-Page-)
-
-...and many more! See [All Repositories](https://github.com/vijaysinghkadela?tab=repositories)
-
----
-
-## 🛠️ Technologies & Tools
-
-- **Languages:** TypeScript, JavaScript, C++, HTML, CSS
-- **Frameworks:** Next.js, React, Tailwind CSS, Node.js, ExpressJS
-- **Libraries:** shadcn/ui, Framer Motion, Radix UI, Lucide Icons
-- **Cloud & Deployment:** Vercel, Netlify, AWS Amplify, Docker
-- **Databases:** MongoDB, Prisma, Firebase
-- **Automation/AI:** n8n, Github Copilot, Trading Bots
-- **Dev Tools:** VS Code, Git, ESLint, Prettier
-
----
-
-## 🤝 How to Contact
-
-- Email: vinaypalsingh085@gmail.com
-- LinkedIn: [vijaysinghkadela](https://linkedin.com/in/vijaysinghkadela/)
-- Website: [vijaysingh.site](https://www.vijaysingh.site/)
-
----
-
-## 📝 Contributing
-
-Contributions, collaborations, and feedback are welcome—just open an Issue or Pull Request!
-
-## ⭐ Star Projects
-
-If you like what I build, star your favorite project!  
-Thank you for visiting my portfolio! 🚀
+<p align="center"><i>Thanks for visiting my profile! 🚀</i></p>
